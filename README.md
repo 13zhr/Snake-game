@@ -1,2 +1,5 @@
 # Snake-game
-Snake game I made in c++
+This project is the _Snake game_ I made in c++.
+### Hope you enjoy it!
+## P.S.
+**IPS** means how many games you want to play
